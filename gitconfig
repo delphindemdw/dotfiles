@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mertens.delphine@hotmail.com
+	name = delphine mertens
